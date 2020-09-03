@@ -18,7 +18,6 @@ PORT=4321`
     1. Clone the source code & navigate to source code directory
     2. Run `npm install`
     3. Run `npm run start`
-
 - ### Generating Documentation
     1. Clone the source code & navigate to source code directory
     2. Run `npm install`
